@@ -8,6 +8,7 @@ description = "Classes for representing different file formats in Python classes
 readme = "README.rst"
 requires-python = ">=3.8"
 dependencies = [
+    "fileformats-core"
 ]
 license = {file = "LICENSE"}
 authors = [
