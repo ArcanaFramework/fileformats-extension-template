@@ -30,7 +30,7 @@ jobs:
         python-version: ${{ matrix.python-version }}
 
     - name: Update build tools
-      run: python -m pip install --upgrade pip flit_scm
+      run: python -m pip install --upgrade pip
 
     - name: Install Package
       run: python -m pip install .[test]
