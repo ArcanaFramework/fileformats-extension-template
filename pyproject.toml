@@ -3,7 +3,7 @@ requires = ["hatchling", "hatch-vcs"]
 build-backend = "hatchling.build"
 
 [project]
-name = "fileformats-TODO"
+name = "fileformats-needtochange"
 description = "Classes for representing different file formats in Python classes for use in type hinting in data workflows"
 readme = "README.rst"
 requires-python = ">=3.7"
@@ -12,10 +12,10 @@ dependencies = [
 ]
 license = {file = "LICENSE"}
 authors = [
-    {name = "TODO:YOUR-NAME", email = "TODO:YOUR-EMAIL"},
+    {name = "needtochange:YOUR-NAME", email = "needtochange:YOUR-EMAIL"},
 ]
 maintainers = [
-    {name = "TODO:YOUR-NAME", email = "TODO:YOUR-EMAIL"},
+    {name = "needtochange:YOUR-NAME", email = "needtochange:YOUR-EMAIL"},
 ]
 keywords = [
     "file formats",
@@ -58,20 +58,20 @@ converters = [
 ]
 
 [project.urls]
-repository = "https://github.com/ArcanaFramework/fileformats-TODO"
+repository = "https://github.com/ArcanaFramework/fileformats-needtochange"
 
 [tool.hatch.version]
 source = "vcs"
 
 [tool.hatch.build.hooks.vcs]
-version-file = "fileformats/TODO/_version.py"
+version-file = "fileformats/needtochange/_version.py"
 
 [tool.hatch.build.targets.wheel]
 packages = ["fileformats"]
 
 [tool.black]
 target-version = ['py38']
-exclude = "fileformats/TODO/_version.py"
+exclude = "fileformats/needtochange/_version.py"
 
 [tool.codespell]
 ignore-words = ".codespell-ignorewords"

@@ -1,15 +1,18 @@
-FileFormats Extension - TODO
-============================
-.. .. image:: https://github.com/arcanaframework/arcana-xnat/actions/workflows/tests.yml/badge.svg
-..    :target: https://github.com/arcanaframework/arcana-xnat/actions/workflows/tests.yml
-.. .. image:: https://codecov.io/gh/arcanaframework/arcana-xnat/branch/main/graph/badge.svg?token=UIS0OGPST7
-..    :target: https://codecov.io/gh/arcanaframework/arcana-xnat
-.. .. image:: https://readthedocs.org/projects/arcana/badge/?version=latest
-..  :target: http://arcana.readthedocs.io/en/latest/?badge=latest
-..   :alt: Documentation Status
+FileFormats Extension - needtochange
+====================================
+.. image:: https://github.com/arcanaframework/fileformats-needtochange/actions/workflows/tests.yml/badge.svg
+    :target: https://github.com/arcanaframework/fileformats-needtochange/actions/workflows/tests.yml
+.. image:: https://codecov.io/gh/arcanaframework/fileformats-needtochange/branch/main/graph/badge.svg?token=UIS0OGPST7
+    :target: https://codecov.io/gh/arcanaframework/fileformats-needtochange
+.. image:: https://img.shields.io/github/stars/ArcanaFramework/fileformats-needtochange.svg
+    :alt: GitHub stars
+    :target: https://github.com/ArcanaFramework/fileformats-needtochange
+.. image:: https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat
+    :target: https://arcanaframework.github.io/fileformats/
+    :alt: Documentation Status
 
-This is a template for an extension module to the
-[fileformats](https://github.com/ArcanaFramework/fileformats-core) package.
+This is the "needtochange" extension module for the
+[fileformats](https://github.com/ArcanaFramework/fileformats-core) package
 
 
 Quick Installation
@@ -17,7 +20,7 @@ Quick Installation
 
 This extension can be installed for Python 3 using *pip*::
 
-    $ pip3 install fileformats-TODO
+    $ pip3 install fileformats-needtochange
 
 This will install the core package and any other dependencies
 
