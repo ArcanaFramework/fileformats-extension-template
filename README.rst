@@ -1,17 +1,17 @@
-FileFormats Extension - needtochange
+FileFormats Extension - need2change
 ====================================
-.. image:: https://github.com/arcanaframework/fileformats-needtochange/actions/workflows/tests.yml/badge.svg
-    :target: https://github.com/arcanaframework/fileformats-needtochange/actions/workflows/tests.yml
-.. image:: https://codecov.io/gh/arcanaframework/fileformats-needtochange/branch/main/graph/badge.svg?token=UIS0OGPST7
-    :target: https://codecov.io/gh/arcanaframework/fileformats-needtochange
-.. image:: https://img.shields.io/github/stars/ArcanaFramework/fileformats-needtochange.svg
+.. image:: https://github.com/arcanaframework/fileformats-need2change/actions/workflows/tests.yml/badge.svg
+    :target: https://github.com/arcanaframework/fileformats-need2change/actions/workflows/tests.yml
+.. image:: https://codecov.io/gh/arcanaframework/fileformats-need2change/branch/main/graph/badge.svg?token=UIS0OGPST7
+    :target: https://codecov.io/gh/arcanaframework/fileformats-need2change
+.. image:: https://img.shields.io/github/stars/ArcanaFramework/fileformats-need2change.svg
     :alt: GitHub stars
-    :target: https://github.com/ArcanaFramework/fileformats-needtochange
+    :target: https://github.com/ArcanaFramework/fileformats-need2change
 .. image:: https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat
     :target: https://arcanaframework.github.io/fileformats/
     :alt: Documentation Status
 
-This is the "needtochange" extension module for the
+This is the "need2change" extension module for the
 [fileformats](https://github.com/ArcanaFramework/fileformats-core) package
 
 
@@ -20,7 +20,7 @@ Quick Installation
 
 This extension can be installed for Python 3 using *pip*::
 
-    $ pip3 install fileformats-needtochange
+    $ pip3 install fileformats-need2change
 
 This will install the core package and any other dependencies
 
